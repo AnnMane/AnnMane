@@ -34,4 +34,21 @@ Currently learning and improving my skills in data analytics and visualization. 
 
 ✨ Always eager to learn new tools and improve my analytical mindset!  
 
-- [Projekt 1: Analiza książek z serwisu Goodreads](https://github.com/AnnMane/goodreads_project-)
+Mine projects:
+
+- [Project 1: Analiza książek z serwisu Goodreads](https://github.com/AnnMane/goodreads_project-)
+
+---
+
+## [Project 1: Analiza książek z serwisu Goodreads](https://github.com/AnnMane/goodreads_project-) ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white) ![SQL](https://img.shields.io/badge/SQL-003B57?style=for-the-badge&logo=sqlite&logoColor=white)
+
+In this project, I analyzed the relationship between textual book reviews and numeric ratings, using a dataset of books and their reviews. The workflow included the following steps:
+- **Data import and cleaning:** Loaded datasets (CSV files) and performed preprocessing, such as splitting publication dates, handling missing values, and standardizing text formats.
+- **Exploratory analysis:** Explored the relationship between the number of pages and ratings, as well as other book attributes like publication year or number of reviews.
+- **Visualization:** Created several visualizations (PNG files) to present key findings, including the top 10 authors by number of pages, publication year distribution, and summary diagrams comparing review texts and ratings.
+- **Script automation:** Wrote and used Python scripts for data cleaning, analysis, and visualization (e.g., mapping variables, generating charts, splitting columns, extracting insights from textual reviews).
+- **Documentation:** Summarized requirements and findings in text files, as well as maintained a clear README file describing the project structure and conclusions.
+  
+**The goal was to uncover patterns between textual reviews and scores, highlight influential authors and books, and practice advanced Python data analysis and visualization techniques. This project demonstrates skills in data cleaning, exploratory data analysis, and informative reporting for book-related datasets.**
+
+
