@@ -7,17 +7,31 @@ Currently learning and improving my skills in data analytics and visualization. 
 
 ## 🔎 About Me
 - 🎓 Fresh graduate passionate about turning data into insights  
-- 📊 Currently focused on **SQL, Python, Excel, Office Suite** and expanding into **Power BI, Tableau, Jupyter**  
 - 📖 A book lover – check out [my Goodreads profile](https://www.goodreads.com/user/show/38242245)  
 - 🏃 I enjoy staying active: running & gym training  
 
 ---
 
 ## 🛠️ Skills & Tools (learning and practicing)
-- **Programming & Querying:** Python, SQL  
-- **Data Analysis & Visualization:** Excel, Power BI, Tableau, Jupyter  
-- **Productivity:** Microsoft Office Suite  
-
----
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![SQL](https://img.shields.io/badge/SQL-003B57?style=for-the-badge&logo=sqlite&logoColor=white)
+![Excel](https://img.shields.io/badge/Excel-217346?style=for-the-badge&logo=microsoft-excel&logoColor=white)
+![Power BI](https://img.shields.io/badge/Power%20BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black)
+![Tableau](https://img.shields.io/badge/Tableau-E97627?style=for-the-badge&logo=tableau&logoColor=white)
+![MS Office](https://img.shields.io/badge/MS--Office-D83B01?style=for-the-badge&logo=microsoft-office&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
+![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)
+![MS Office](https://img.shields.io/badge/Microsoft%20Office-D83B01?style=for-the-badge&logo=microsoft-office&logoColor=white)
+![PowerPoint](https://img.shields.io/badge/PowerPoint-B7472A?style=for-the-badge&logo=microsoft-powerpoint&logoColor=white)
+![Word](https://img.shields.io/badge/Word-2B579A?style=for-the-badge&logo=microsoft-word&logoColor=white)
+![Visual Studio Code](https://img.shields.io/badge/VS%20Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
+![Ubuntu Terminal](https://img.shields.io/badge/Terminal-241F1F?style=for-the-badge&logo=ubuntu&logoColor=E95420)
+![Canva](https://img.shields.io/badge/Canva-00C4CC?style=for-the-badge&logo=canva&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white)
+![Matplotlib](https://img.shields.io/badge/Matplotlib-11557C?style=for-the-badge&logo=matplotlib&logoColor=white)
+![Trello](https://img.shields.io/badge/Trello-0052CC?style=for-the-badge&logo=trello&logoColor=white)
 
 ✨ Always eager to learn new tools and improve my analytical mindset!  
+
+- [Projekt 1: Analiza książek z serwisu Goodreads](https://github.com/AnnMane/goodreads_project-)
