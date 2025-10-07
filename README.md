@@ -51,4 +51,7 @@ In this project, I analyzed the relationship between textual book reviews and nu
   
 **The goal was to uncover patterns between textual reviews and scores, highlight influential authors and books, and practice advanced Python data analysis and visualization techniques. This project demonstrates skills in data cleaning, exploratory data analysis, and informative reporting for book-related datasets.**
 
+## Author
+©2025 Anna Grzywa. All rights reserved.
 
+[<img src="https://img.shields.io/badge/LinkedIn-blue?logo=linkedin&logoColor=white&style=for-the-badge" alt="LinkedIn badge"/>](https://www.linkedin.com/in/annagrzywa/)
