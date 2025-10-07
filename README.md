@@ -36,11 +36,11 @@ Currently learning and improving my skills in data analytics and visualization. 
 
 Mine projects:
 
-- [Project 1: Analiza książek z serwisu Goodreads](https://github.com/AnnMane/goodreads_project-)
+- [Project 1: Book analysis from the Goodreads platform](https://github.com/AnnMane/goodreads_project-)
 
 ---
 
-## [Project 1: Analiza książek z serwisu Goodreads](https://github.com/AnnMane/goodreads_project-) ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white) ![SQL](https://img.shields.io/badge/SQL-003B57?style=for-the-badge&logo=sqlite&logoColor=white)
+## [Project 1: Book analysis from the Goodreads platform](https://github.com/AnnMane/goodreads_project-) ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white) ![SQL](https://img.shields.io/badge/SQL-003B57?style=for-the-badge&logo=sqlite&logoColor=white)
 
 In this project, I analyzed the relationship between textual book reviews and numeric ratings, using a dataset of books and their reviews. The workflow included the following steps:
 - **Data import and cleaning:** Loaded datasets (CSV files) and performed preprocessing, such as splitting publication dates, handling missing values, and standardizing text formats.
