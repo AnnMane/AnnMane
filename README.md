@@ -64,6 +64,17 @@ In this project, I created an interactive BI dashboard to analyze and compare th
 
 **The goal was to merge disparate datasets into a unified analytical model, solving complex data integration challenges to visualize global content strategies. This project demonstrates proficiency in Power BI, end-to-end ETL processes, and solving real-world data engineering problems like composite key creation.**
 
+## [Project 3: Customer Shopping Data Analysis & Automation](https://github.com/AnnMane/customers-shopping) ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white) ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white) ![SQL](https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=postgresql&logoColor=white)
+
+In this project, I built an end-to-end data analysis pipeline for retail sales data, focusing on **SQL automation and database management** using PostgreSQL and Python. The workflow included the following steps:
+- **Database Architecture:** Designed and deployed a PostgreSQL database to store raw customer shopping data, moving beyond static flat files to a robust relational environment.
+- **Modular SQL Analysis:** Wrote comprehensive SQL scripts structured in a modular fashion (e.g., `1.0_missing_values.sql`, `2.3_monthly_sales_trends.sql`) to perform data quality checks, customer segmentation, and sales trend analysis.
+- **Python Automation (ETL):** Developed a Python script (`excels.py`) using the `psycopg2` library to establish a connection with the database, automatically execute the sequence of SQL queries, and export the processed results into Excel reports.
+- **Business Intelligence:** Analyzed key metrics such as top-performing shopping malls, age/gender distribution of customers, and category performance to provide actionable retail insights.
+- **Tech Stack Integration:** Demonstrated the ability to integrate VS Code, Python, and PostgreSQL into a seamless workflow for reproducible analysis.
+
+**The goal was to simulate a real-world Data Analyst workflow: querying a live database, automating report generation with Python, and structuring SQL code for maintainability. This project highlights skills in Database Management, Python scripting for automation, and advanced SQL querying.**
+
 ## Author
 ©2025 Anna Grzywa. All rights reserved.
 
