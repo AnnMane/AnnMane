@@ -53,6 +53,17 @@ In this project, I analyzed the relationship between textual book reviews and nu
   
 **The goal was to uncover patterns between textual reviews and scores, highlight influential authors and books, and practice advanced Python data analysis and visualization techniques. This project demonstrates skills in data cleaning, exploratory data analysis, and informative reporting for book-related datasets.**
 
+## [Project 2: Global Streaming Catalog Analysis](https://github.com/AnnMane/GLOBAL_STREAMING_CATALOG_ANALYSIS) ![Power BI](https://img.shields.io/badge/Power%20BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black) ![Power Query](https://img.shields.io/badge/Power%20Query-FFD580?style=for-the-badge&logo=powerbi&logoColor=black) ![DAX](https://img.shields.io/badge/DAX-007ACC?style=for-the-badge&logo=microsoftsqlserver&logoColor=white)
+
+In this project, I created an interactive BI dashboard to analyze and compare the content libraries of three major streaming giants: Netflix, Amazon Prime, and Disney+. The workflow included the following steps:
+- **ETL & Data Cleaning**: Ingested and consolidated raw data from three separate sources into a unified model using Power Query. Performed extensive cleaning, including handling missing values, trimming text, and standardizing date formats.
+- **Advanced Data Modeling**: Solved a critical "ID Collision" data engineering challenge where different platforms used identical ID schemas. Engineered a Composite Primary Key to ensure 100% accuracy in distinct count calculations across the merged dataset.
+- **DAX Calculations**: Developed dynamic measures to calculate unique titles, categorize content into Movies/TV Shows, and analyze historical growth trends.
+- **Interactive Visualization**: Designed a professional, dark-themed dashboard featuring custom navigation buttons, drill-through capabilities for detailed data views, and geospatial mapping of content production.
+- **Strategic Analysis**: Visualized the "Streaming Wars" by comparing library sizes, the explosion of original content production over the last decade, and the content strategy differences between platforms (e.g., volume vs. curated franchises).
+
+**The goal was to merge disparate datasets into a unified analytical model, solving complex data integration challenges to visualize global content strategies. This project demonstrates proficiency in Power BI, end-to-end ETL processes, and solving real-world data engineering problems like composite key creation.**
+
 ## Author
 ©2025 Anna Grzywa. All rights reserved.
 
