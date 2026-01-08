@@ -76,6 +76,17 @@ In this project, I built an end-to-end data analysis pipeline for retail sales d
 
 **The goal was to simulate a real-world Data Analyst workflow: querying a live database, automating report generation with Python, and structuring SQL code for maintainability. This project highlights skills in Database Management, Python scripting for automation, and advanced SQL querying.**
 
+## [Project 4: IT Job Market Analysis Dashboard (Poland)](https://github.com/AnnMane/Job_Hunter_Analysis) ![Power BI](https://img.shields.io/badge/Power_BI-F2C811?style=for-the-badge&logo=Power%20BI&logoColor=black) ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white) ![DAX](https://img.shields.io/badge/DAX-00758F?style=for-the-badge&logo=powerbi&logoColor=white) ![Ubuntu](https://img.shields.io/badge/Ubuntu-E95420?style=for-the-badge&logo=ubuntu&logoColor=white)
+
+In this project, I developed an end-to-end data pipeline and interactive dashboard to analyze the Polish IT job market, transforming unstructured web data into actionable career insights. The workflow included the following steps:
+- **Data Acquisition & Engineering:** Engineered a custom web scraper using Python to extract over 2,400 active job offers, parsing complex nested structures like salary ranges and tech stacks from the "No Fluff Jobs" portal.
+- **Advanced Data Modeling:** Designed a Star Schema with a specialized **Bridge Table** to resolve Many-to-Many relationships between Job Offers and Skills. This architecture allowed for accurate filtering and prevented data duplication errors common in multi-value dimension analysis.
+- **ETL & Transformation:** Utilized Power Query (M) to normalize mixed currency data (converting EUR/USD to PLN), handle null values, and parse location strings to distinguish between fully remote work and physical tech hubs.
+- **Complex DAX Calculations:** Implemented advanced measures using `DISTINCTCOUNT` and context transition logic to calculate accurate average salaries and "Requirements per Offer," effectively handling data granularity issues.
+- **Hybrid Workflow:** Executed the project using a professional hybrid environment, combining Power BI on Windows for visualization with **WSL 2 (Ubuntu)** for Python scripting and Git version control.
+
+**The goal was to provide a transparent view of the IT market, identifying "Hidden Gem" technologies with high salaries but lower competition. This project demonstrates full-stack data analysis skills, from raw data scraping in Linux to advanced dimensional modeling and storytelling in Power BI.**
+
 ## Author
 ©2025 Anna Grzywa. All rights reserved.
 
