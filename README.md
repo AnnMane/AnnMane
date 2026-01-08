@@ -40,7 +40,8 @@ Mine projects:
 
 - [Project 1: Book analysis from the Goodreads platform](https://github.com/AnnMane/goodreads_project-)
 - [Project 2: Global Streaming Catalog Analysis](https://github.com/AnnMane/GLOBAL_STREAMING_CATALOG_ANALYSIS) 
-- [Project 3: Customer Shopping Data Analysis & Automation](https://github.com/AnnMane/customers-shopping) 
+- [Project 3: Customer Shopping Data Analysis & Automation](https://github.com/AnnMane/customers-shopping)
+- [Project 4: IT Job Market Analysis Dashboard (Poland)](https://github.com/AnnMane/job_hunter)
 ---
 
 ## [Project 1: Book analysis from the Goodreads platform](https://github.com/AnnMane/goodreads_project-) ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white) ![SQL](https://img.shields.io/badge/SQL-003B57?style=for-the-badge&logo=sqlite&logoColor=white) ![Visual Studio Code](https://img.shields.io/badge/VS%20Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white)
